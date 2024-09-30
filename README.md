@@ -1,66 +1,50 @@
 
-# 👋 Hello, I'm Biraj Thapa! | Cybersecurity Professional 💻
+# 👋 Hello, I'm Biraj Thapa | Cybersecurity Specialist 💻
 
-> "The best defense is a good offense, and I'm on both sides of the line."
 
-🌍 I am a passionate **Cybersecurity Specialist** and **Software Developer** focused on integrating security into the development process. My expertise spans from ethical hacking to automating security processes and building advanced security tools. Currently pursuing my degree in **Computer Science (Cybersecurity)** at **Louisiana Tech University**.
+> "Passionate about defending the digital world, one vulnerability at a time."
 
-![GitHub Banner](https://github.com/your_username/banner.png)
-
----
-
-## 🌟 **Areas of Expertise**
-
-- **Programming:** Python, JavaScript, C++, Bash, PowerShell
-- **Cybersecurity Frameworks:** NIST, OWASP, ISO 27001
-- **Cloud Security:** AWS IAM, Azure Security Center, Google Cloud Security
-- **AI in Security:** Malware detection, threat intelligence, anomaly detection (TensorFlow, Scikit-learn)
-- **CI/CD Security:** Jenkins, Docker, Kubernetes, Infrastructure as Code (IaC)
-- **DevSecOps:** Automated security testing, SAST, DAST, dependency checks
+I’m a **Computer Science** student with a focus on **Cybersecurity** at **Louisiana Tech University**, graduating in November 2024. I have hands-on experience in identifying vulnerabilities and solving complex security challenges. This GitHub showcases my projects and skills, demonstrating my commitment to protecting digital systems.
 
 ---
 
-## 🚀 **Featured Projects**
+## 🚀 **Technical Skills**
 
-### **1. 🛡️ Custom SIEM Solution**
-> Real-time threat monitoring, incident response, and automated security policy enforcement.
-- **Features:** Multi-source log aggregation, anomaly detection via ML, real-time alerts, auto-remediation
-- **Tech:** ELK Stack, Python, TensorFlow, Docker
-- **[View Repository](https://github.com/birajthapa007/SIEM)**
+- **Programming Languages:** Python, C, C++, Bash, PowerShell
+- **Security Tools:** Nmap, Wireshark, Metasploit, Burp Suite, OWASP ZAP, THC-Hydra, Netcat, Weevely, Kali Linux
+- **Vulnerabilities Expertise:** SQL Injection, XSS, CSRF, File Upload Vulnerabilities, Code Execution, File Inclusion
 
 ---
 
-### **2. 🧠 Malware Detection with ML**
-> Predictive malware detection tool that classifies files based on behavioral patterns and signatures.
-- **Features:** Predictive analysis, signature-based detection, behavioral heuristics
-- **Tech:** Python, TensorFlow, YARA
-- **Achievements:** Detected zero-day malware with 95% accuracy
-- **[View Repository](https://github.com/birajthapa007/Malware_Scanner)**
+## 🌟 **Highlighted Projects**
+
+### 🧠 **1. Malware Detection Tool**
+> A high-performance, multithreaded malware detection system with real-time signature updates and advanced hashing algorithms.
+- **Optimized Performance:** Accelerated malware detection by 50% using concurrent file scanning across large-scale directories.
+- **Tech Stack:** Python, Multithreading, Hashing Algorithms.
+- **[View Repository](https://github.com/birajthapa007/malware-detection)**
+
+### 🔍 **2. Security Information and Event Management (SIEM) System**
+> A Python-based SIEM system for real-time log analysis and alerting.
+- **Key Features:** Regex-based log parsing, dynamic log analysis, real-time alerting.
+- **Tech Stack:** Python, SQLite, Regex Parsing.
+- **[View Repository](https://github.com/birajthapa007/siem-system)**
 
 ---
 
-
-## 🏅 **Certifications & Accomplishments**
-
-- 🏆 **Certified Ethical Hacker (CEH)**
-- 🏆 **AWS Certified Solutions Architect**
-- 🏅 **Top 10 in Meta Capture The Flag Competition**
+## 🏆 **Certifications & Achievements**
+- **Winner of CyberStorm 2023 Competition**
 
 ---
 
-## 🌱 **What I'm Learning Next**
-
-- Advanced **Threat Hunting** techniques
-- **Zero Trust Architectures**
-- **Blue Team and Red Team Tactics**
+## 🌱 **What’s Next?**
+- **Learning:** Advanced Threat Hunting, Zero Trust Architectures.
+- **Future Projects:** Building a Red vs Blue Team Simulation Framework.
 
 ---
 
-## 💬 **Let's Connect!**
-
-- **LinkedIn**: [https://github.com/birajthapa007/Malware_Scanner)
-
-
----
+**Let's Connect:**
+- [LinkedIn](https://linkedin.com/in/biraj-thapa-b718b6227)
+- [GitHub](https://github.com/birajthapa007)
 
 📅 Last Updated: 2024-09-30
