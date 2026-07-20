@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Biraj%20Thapa&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%C3%97%20Cybersecurity%20%C3%97%20Systems&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Biraj%20Thapa&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%C3%97%20Cybersecurity%20%C3%97%20&descSize=18&descAlignY=55" width="100%"/>
 
 <a href="https://github.com/birajthapa007">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=ML+%2B+Security+Researcher;Building+AI+for+Constrained+Systems;Aspiring+Ph.D.+Student;CyberStorm+2023+Winner" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=ML+%2B+Security+Researcher;Building+AI+for+Constrained+Systems;A;CyberStorm+2023+Winner" alt="Typing SVG"/>
 </a>
 
 <br/>
