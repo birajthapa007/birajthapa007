@@ -21,7 +21,6 @@ Graduate student at the **University of North Texas**, with a **B.S. in Computer
 I build systems at the intersection of **machine learning, security, and constrained computing** — models that run where resources are scarce, and tools that detect when things go wrong.
 
 - 📄 **Currently:** finishing a first-author working paper — **OrbitML**, fault-tolerant ML inference for satellites
-- 🎯 **Goal:** Ph.D. in machine learning + security for networked and cyber-physical systems
 - 🏆 **CyberStorm 2023 Winner** — real-time cyber defense competition
 - 📍 Dallas–Fort Worth, TX
 
@@ -77,12 +76,6 @@ I build systems at the intersection of **machine learning, security, and constra
 | 🧠 **[Malware Scanner](https://github.com/birajthapa007/Malware_Scanner)** | Multithreaded file scanner with real-time signature updates — 50% faster via concurrency | Python, YARA |
 | 💬 **[Spectergram](https://github.com/birajthapa007/Spectergram)** | Zero-persistence chat — messages exist only while both users are online, no server-side storage | React, Azure Functions |
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=birajthapa007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birajthapa007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
-</div>
 
 ## 🏆 Achievements
 
